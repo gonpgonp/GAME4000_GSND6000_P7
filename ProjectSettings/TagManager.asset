@@ -18,8 +18,8 @@ TagManager:
   - 
   - 
   - Ground
+  - Cars
   - Player
-  - Car
   - 
   - 
   - 
@@ -46,11 +46,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Cars
+  - name: Objects
     uniqueID: 4051662273
-    locked: 0
-  - name: Player
-    uniqueID: 1650002557
     locked: 0
   m_RenderingLayers:
   - Default
