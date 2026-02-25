@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 5948ae82f91c8411eaa65a4827622bca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 549970777896864333
+    second: Vehicles for Art_0
+  - first:
+      213: -7573322223288817664
+    second: Vehicles for Art_1
+  - first:
+      213: -8519017420962839642
+    second: Vehicles for Art_2
+  - first:
+      213: -6453168056726074033
+    second: Vehicles for Art_3
+  - first:
+      213: 2347396356827450437
+    second: Vehicles for Art_4
+  - first:
+      213: -4532285749470646196
+    second: Vehicles for Art_5
+  - first:
+      213: 2650574565737131565
+    second: Vehicles for Art_6
+  - first:
+      213: -6493497283464454818
+    second: Vehicles for Art_7
+  - first:
+      213: 2534547212427333793
+    second: Vehicles for Art_8
+  - first:
+      213: -6056541030663652700
+    second: Vehicles for Art_9
+  - first:
+      213: 7668490269367462114
+    second: Vehicles for Art_10
+  - first:
+      213: -3085962341478876437
+    second: Vehicles for Art_11
+  - first:
+      213: 1451347239187598542
+    second: Vehicles for Art_12
+  - first:
+      213: 1596195081791793525
+    second: Vehicles for Art_13
+  - first:
+      213: -749332666361133186
+    second: Vehicles for Art_14
+  - first:
+      213: -7255382358220265942
+    second: Vehicles for Art_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vehicles for Art_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4289
+        width: 545
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a43653283e1a700800000000000000
+      internalID: 549970777896864333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles for Art_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3406
+        width: 1212
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0086c47209726e690800000000000000
+      internalID: -7573322223288817664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles for Art_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2710
+        width: 1152
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c0fbbac80a39020800000000000000
+      internalID: 2347396356827450437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles for Art_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1964
+        width: 1186
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d132def9672e5a0800000000000000
+      internalID: -6493497283464454818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles for Art_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1431
+        width: 1682
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ef254543fb6a60800000000000000
+      internalID: 7668490269367462114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vehicles for Art_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 623
+        width: 1689
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579ec6a48f2d62610800000000000000
+      internalID: 1596195081791793525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a16519f54239948e4a334dd74ad2b39d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Vehicles for Art_0: 549970777896864333
+      Vehicles for Art_1: -7573322223288817664
+      Vehicles for Art_10: 7668490269367462114
+      Vehicles for Art_11: -3085962341478876437
+      Vehicles for Art_12: 1451347239187598542
+      Vehicles for Art_13: 1596195081791793525
+      Vehicles for Art_14: -749332666361133186
+      Vehicles for Art_15: -7255382358220265942
+      Vehicles for Art_2: -8519017420962839642
+      Vehicles for Art_3: -6453168056726074033
+      Vehicles for Art_4: 2347396356827450437
+      Vehicles for Art_5: -4532285749470646196
+      Vehicles for Art_6: 2650574565737131565
+      Vehicles for Art_7: -6493497283464454818
+      Vehicles for Art_8: 2534547212427333793
+      Vehicles for Art_9: -6056541030663652700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
